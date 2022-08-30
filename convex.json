@@ -1,0 +1,7 @@
+{
+  "project": "penapps-starter-2",
+  "team": "thomasballinger",
+  "prodUrl": "https://disagreeable-chimpanzee-698.convex.cloud",
+  "functions": "convex/",
+  "authInfo": []
+}
